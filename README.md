@@ -1,5 +1,7 @@
-![](assets/staycharlie-charlie2.gif) Nothing or Vlad. 
-=====================================================
+<h1>
+    <img src="assets/staycharlie-charlie2.gif">
+    Nothing or Vlad. 
+</h1>
 
 WebDeveloper
 ----------
