@@ -1,4 +1,4 @@
-<h1>
+<h1 style="text-align: center">
     <img src="assets/staycharlie-charlie2.gif">
     Nothing or Vlad. 
 </h1>
