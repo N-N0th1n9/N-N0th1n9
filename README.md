@@ -8,11 +8,11 @@
 
 <div align="center">
 
-🌍 I'm a web developer from **Russia**. 🇷🇺
+🌍 I'm a web developer from **Russia**.
 
 💓 Programming is the most important part of **my life**.
 
-📚 I'm now a high school student.
+📚 I'm now a high school **student**.
 </div>
 
 <hr/>
@@ -39,4 +39,14 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="38" style="margin-right: 10px"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="38"/>
     </div>
+</div>
+<br>
+
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+<a href="https://t.me/Royal_waffle">
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=blue" />
+  </a>
 </div>
