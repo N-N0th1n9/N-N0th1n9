@@ -1,6 +1,6 @@
 <h1 align="center">
     <img src="assets/staycharlie-charlie2.gif">
-    Nothing or Vlad. 
+    Nothing or Vlad 
     <img src="assets/staycharlie-charlie2.gif">
 </h1>
 
