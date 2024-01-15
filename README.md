@@ -4,7 +4,7 @@
     <img src="assets/staycharlie-charlie2.gif">
 </h1>
 
-<h3 align="center">I'm the one who paints the buttons. I'm a web developer.</h3>
+<h3 align="center">I'm the one who paints the buttons. `I'm a web developer.`</h3>
 
 <div align="center">
 
