@@ -3,8 +3,6 @@
     Nothing or Vlad. 
 </h1>
 
-<hr>
-
 <h3 align="center">I'm the one who paints the buttons. I'm a web developer.</h3>
 
 <div align="center">
