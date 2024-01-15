@@ -6,13 +6,22 @@
 <h3 align="center">I'm the one who paints the buttons. I'm a web developer.</h3>
 
 <div align="center">
-    🌍 I'm a web developer from **Russia**
 
-    💓 Programming is the most important part of **my life**
+🌍 I'm a web developer from **Russia** 🇷🇺
 
-    
+💓 Programming is the most important part of **my life**
+
 </div>
 
-* 🌍  I'm based in Russian
-* ✉️  You can contact me at [vladislav.tsiganov.04@gmail.com](mailto:vladislav.tsiganov.04@gmail.com)
+<hr/>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="30px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30px"/>
+    </div>
+
+<br/>
