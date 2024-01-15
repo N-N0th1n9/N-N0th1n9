@@ -16,7 +16,7 @@
 <hr/>
 
 <div align="center">
-    <p align="center" style="font-size: 60px; font-weight: 600">⚒️ Languages-Frameworks-Tools ⚒️</p>
+    <h2 align="center" style="border: none">⚒️ Languages-Frameworks-Tools ⚒️</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="30px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30px"/>
