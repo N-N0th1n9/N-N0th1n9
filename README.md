@@ -27,7 +27,7 @@
     </div>
     <div style="margin-bottom: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="38" style="margin-right: 10px"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="38" style="margin-right: 10px"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" width="38" style="margin-right: 10px"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" style="margin-right: 10px"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="38" style="margin-right: 10px"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" width="38" style="margin-right: 10px"/>
