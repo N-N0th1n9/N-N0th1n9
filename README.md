@@ -10,7 +10,7 @@
 
 🌍 I'm a web developer from **Russia**.
 
-💓 Programming is the most important part of **my life**.
+🖤 Programming is the most important part of **my life**.
 
 📚 I'm a **student** now.
 </div>
