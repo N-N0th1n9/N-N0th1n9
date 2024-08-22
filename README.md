@@ -12,7 +12,7 @@
 
 💓 Programming is the most important part of **my life**.
 
-📚 I'm now a high school **student**.
+📚 I'm a **student** now.
 </div>
 
 <hr/>
