@@ -8,11 +8,9 @@
 
 <div align="center">
 
-🌍 I'm a web developer from **Russia**.
+🌍 I'm a web developer.
 
 🖤 Programming is the most important part of **my life**.
-
-📚 I'm a **student** now.
 </div>
 
 <hr/>
